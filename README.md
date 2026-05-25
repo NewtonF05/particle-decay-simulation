@@ -41,7 +41,7 @@ The simulation produces:
 - **Backward-detection rate** — the fraction of detected events where the daughter was emitted with negative z-velocity
 - **Angular spectra** at each station, separated into forward and backward emission
 
-[Add a screenshot of the four-station hit map here.]
+![Hit maps at the four tracking stations (z = 30, 35, 40, 45 m), with hit density falling off with distance from the decay region](figures/particle_decay_hit_maps.png)
 
 ## How to Run
 
